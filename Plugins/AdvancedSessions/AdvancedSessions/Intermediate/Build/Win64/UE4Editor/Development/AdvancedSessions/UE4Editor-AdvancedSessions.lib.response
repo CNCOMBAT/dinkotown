@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AdvancedSessions.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"K:\MultiplayerTemplate\MultiplayerTemplate\MultiplayerTemplate\Intermediate\Build\Win64\MultiplayerTemplateEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"K:\MultiplayerTemplate\MultiplayerTemplate\MultiplayerTemplate\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.cpp.obj"
+"K:\MultiplayerTemplate\MultiplayerTemplate\MultiplayerTemplate\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.gen.cpp.obj"
+"K:\MultiplayerTemplate\MultiplayerTemplate\MultiplayerTemplate\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\PCLaunch.rc.res"
+/OUT:"K:\MultiplayerTemplate\MultiplayerTemplate\MultiplayerTemplate\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\UE4Editor-AdvancedSessions.lib"
